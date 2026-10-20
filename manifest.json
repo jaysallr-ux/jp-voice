@@ -248,7 +248,7 @@
    "at": "2026-10-20T21:21:44.001Z"
   },
   "ねこ。": {
-   "file": "audio/oce75eea2a1-mvh6pyhl.mp3",
+   "file": "audio/oce75eea2a1-mvhb1cy4.mp3",
    "lesson": "0-3",
    "kind": "단어",
    "who": "A",
@@ -256,9 +256,9 @@
    "model": "gpt-4o-mini-tts",
    "text": "ねこ。",
    "kana": "ねこ",
-   "status": "확인 필요",
-   "heard": "ねこう。",
-   "at": "2026-10-20T21:21:44.001Z"
+   "status": "완료",
+   "heard": "ねこ",
+   "at": "2026-10-20T23:20:34.801Z"
   },
   "ねこ。|B": {
    "file": "audio/ob49e522318-mvh6q026.mp3",
@@ -469,7 +469,7 @@
    "at": "2026-10-20T21:21:44.001Z"
   },
   "たな。|B": {
-   "file": "audio/o06aa2cdf92-mvh6rgg7.mp3",
+   "file": "audio/o06aa2cdf92-mvhb1kae.mp3",
    "lesson": "0-3",
    "kind": "단어",
    "who": "B",
@@ -477,9 +477,9 @@
    "model": "gpt-4o-mini-tts",
    "text": "たな。",
    "kana": "たな",
-   "status": "확인 필요",
-   "heard": "ターナ",
-   "at": "2026-10-20T21:21:44.001Z"
+   "status": "완료",
+   "heard": "たな",
+   "at": "2026-10-20T23:20:34.802Z"
   },
   "ぬの。": {
    "file": "audio/o6a1575149a-mvh6rhbc.mp3",
@@ -534,33 +534,33 @@
    "at": "2026-10-20T21:21:44.001Z"
   },
   "いぬ？ううん。ねこ、すき。": {
-   "file": "audio/o2060be28bb-mvh6svuz.mp3",
+   "file": "audio/o2060be28bb-mvhb1sa3.mp3",
    "lesson": "0-3",
    "kind": "귀뜻",
    "who": "A",
    "voice": "coral",
-   "model": "gpt-4o-mini-tts",
-   "text": "いぬ？ううん。ねこ、すき。",
-   "kana": "",
-   "status": "확인 필요",
-   "heard": "いる? うん。ねこ、すき。",
-   "at": "2026-10-20T21:21:44.001Z"
-  },
-  "いぬ？ううん。ねこ、すき。|B": {
-   "file": "audio/odd3707b381-mvh6sx80.mp3",
-   "lesson": "0-3",
-   "kind": "귀뜻",
-   "who": "B",
-   "voice": "verse",
    "model": "gpt-4o-mini-tts",
    "text": "いぬ？ううん。ねこ、すき。",
    "kana": "",
    "status": "확인 필요",
    "heard": "いぬ、うん、ねこ、すき。",
-   "at": "2026-10-20T21:21:44.001Z"
+   "at": "2026-10-20T23:20:34.802Z"
+  },
+  "いぬ？ううん。ねこ、すき。|B": {
+   "file": "audio/odd3707b381-mvhb2icx.mp3",
+   "lesson": "0-3",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "いぬ？ううん。ねこ、すき。",
+   "kana": "",
+   "status": "확인 필요",
+   "heard": "犬?うん、ねこ、すき。",
+   "at": "2026-10-20T23:20:34.802Z"
   },
   "にく、すき。さかな、ううん。": {
-   "file": "audio/o0efeb8f76a-mvh6syln.mp3",
+   "file": "audio/o0efeb8f76a-mvhb2p9a.mp3",
    "lesson": "0-3",
    "kind": "귀뜻",
    "who": "A",
@@ -569,11 +569,11 @@
    "text": "にく、すき。さかな、ううん。",
    "kana": "",
    "status": "확인 필요",
-   "heard": "にく、すき、さかな、うん。",
-   "at": "2026-10-20T21:21:44.001Z"
+   "heard": "にく、すき。さかな、うー。",
+   "at": "2026-10-20T23:20:34.802Z"
   },
   "にく、すき。さかな、ううん。|B": {
-   "file": "audio/o62e76077f8-mvh6u2jz.mp3",
+   "file": "audio/o62e76077f8-mvhb3fei.mp3",
    "lesson": "0-3",
    "kind": "귀뜻",
    "who": "B",
@@ -582,11 +582,11 @@
    "text": "にく、すき。さかな、ううん。",
    "kana": "",
    "status": "확인 필요",
-   "heard": "にく、すき、さかな、うーん。",
-   "at": "2026-10-20T21:21:44.001Z"
+   "heard": "にく、すき、さかな、うん。",
+   "at": "2026-10-20T23:20:34.802Z"
   },
   "にく、さかな、すき。": {
-   "file": "audio/ob428fc241e-mvh6u3sp.mp3",
+   "file": "audio/ob428fc241e-mvhb3hs3.mp3",
    "lesson": "0-3",
    "kind": "귀뜻",
    "who": "A",
@@ -594,9 +594,9 @@
    "model": "gpt-4o-mini-tts",
    "text": "にく、さかな、すき。",
    "kana": "",
-   "status": "확인 필요",
-   "heard": "にく、さたな、すこ",
-   "at": "2026-10-20T21:21:44.001Z"
+   "status": "완료",
+   "heard": "にく、さかな、すき",
+   "at": "2026-10-20T23:20:34.802Z"
   },
   "にく、さかな、すき。|B": {
    "file": "audio/o5b8d69776f-mvh6u519.mp3",
@@ -638,7 +638,7 @@
    "at": "2026-10-20T21:28:07.974Z"
   },
   "ねつ、ない。": {
-   "file": "audio/obbca0e6864-mvh724gg.mp3",
+   "file": "audio/obbca0e6864-mvhb3oc1.mp3",
    "lesson": "0-3",
    "kind": "귀뜻",
    "who": "A",
@@ -646,9 +646,9 @@
    "model": "gpt-4o-mini-tts",
    "text": "ねつ、ない。",
    "kana": "",
-   "status": "확인 필요",
-   "heard": "べつ、ない。",
-   "at": "2026-10-20T21:28:07.975Z"
+   "status": "완료",
+   "heard": "ねつ、ない。",
+   "at": "2026-10-20T23:20:34.802Z"
   },
   "ねつ、ない。|B": {
    "file": "audio/od7c478b022-mvh725zq.mp3",
