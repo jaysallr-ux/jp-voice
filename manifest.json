@@ -1379,7 +1379,7 @@
    "at": "2026-10-20T23:00:56.860Z"
   },
   "@0-2|B|うん、すこし。|そう。|": {
-   "file": "audio/o3a46e0bc0d-mvha9tvq.mp3",
+   "file": "audio/o3a46e0bc0d-mvhala7f.mp3",
    "lesson": "0-2",
    "kind": "대사",
    "who": "B",
@@ -1389,10 +1389,10 @@
    "kana": "",
    "status": "완료",
    "heard": "そう。",
-   "at": "2026-10-20T23:00:56.860Z"
+   "at": "2026-10-20T23:10:38.864Z"
   },
   "そう": {
-   "file": "audio/o0774ffcccd-mvha9w6k.mp3",
+   "file": "audio/o0774ffcccd-mvhalg9e.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "A",
@@ -1402,10 +1402,10 @@
    "kana": "そう",
    "status": "완료",
    "heard": "そう。",
-   "at": "2026-10-20T23:00:56.860Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "そう|B": {
-   "file": "audio/o22dcf95f54-mvhaa7dk.mp3",
+   "file": "audio/o22dcf95f54-mvhalhle.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "B",
@@ -1415,10 +1415,10 @@
    "kana": "そう",
    "status": "완료",
    "heard": "そう。",
-   "at": "2026-10-20T23:00:56.860Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "そうそう！": {
-   "file": "audio/oc196146f7e-mvhaad0t.mp3",
+   "file": "audio/oc196146f7e-mvhals6i.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "A",
@@ -1428,10 +1428,10 @@
    "kana": "そうそう",
    "status": "완료",
    "heard": "そうそう。",
-   "at": "2026-10-20T23:00:56.860Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "そうそう！|B": {
-   "file": "audio/o9f82cf283a-mvhaafez.mp3",
+   "file": "audio/o9f82cf283a-mvhaluvg.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "B",
@@ -1441,10 +1441,10 @@
    "kana": "そうそう",
    "status": "완료",
    "heard": "そうそう。",
-   "at": "2026-10-20T23:00:56.860Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "すき": {
-   "file": "audio/o48bf2ba0fe-mvhaajen.mp3",
+   "file": "audio/o48bf2ba0fe-mvham3zk.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "A",
@@ -1453,11 +1453,11 @@
    "text": "すき",
    "kana": "すき",
    "status": "완료",
-   "heard": "すき。",
-   "at": "2026-10-20T23:00:56.860Z"
+   "heard": "すき",
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "すき|B": {
-   "file": "audio/o3e674202cc-mvhaamt5.mp3",
+   "file": "audio/o3e674202cc-mvham5ou.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "B",
@@ -1467,10 +1467,10 @@
    "kana": "すき",
    "status": "완료",
    "heard": "すき。",
-   "at": "2026-10-20T23:00:56.860Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "朝": {
-   "file": "audio/o1cfa3d288d-mvhaapwj.mp3",
+   "file": "audio/o1cfa3d288d-mvham76a.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "A",
@@ -1480,10 +1480,10 @@
    "kana": "あさ",
    "status": "완료",
    "heard": "あさ",
-   "at": "2026-10-20T23:00:56.860Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "朝|B": {
-   "file": "audio/o40f5ff5157-mvhaart7.mp3",
+   "file": "audio/o40f5ff5157-mvhambkc.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "B",
@@ -1493,10 +1493,10 @@
    "kana": "あさ",
    "status": "완료",
    "heard": "あさ",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "席": {
-   "file": "audio/oe5951b7c0f-mvhaat7j.mp3",
+   "file": "audio/oe5951b7c0f-mvhamq0r.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "A",
@@ -1505,11 +1505,11 @@
    "text": "席",
    "kana": "せき",
    "status": "완료",
-   "heard": "せき",
-   "at": "2026-10-20T23:00:56.861Z"
+   "heard": "次期",
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "席|B": {
-   "file": "audio/o6d98c0e060-mvhaauek.mp3",
+   "file": "audio/o6d98c0e060-mvhan2rn.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "B",
@@ -1518,11 +1518,11 @@
    "text": "席",
    "kana": "せき",
    "status": "완료",
-   "heard": "せき",
-   "at": "2026-10-20T23:00:56.861Z"
+   "heard": "せき。",
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "靴": {
-   "file": "audio/oce67cc7310-mvhaavpr.mp3",
+   "file": "audio/oce67cc7310-mvhan70b.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "A",
@@ -1530,12 +1530,12 @@
    "model": "gpt-4o-mini-tts",
    "text": "靴",
    "kana": "くつ",
-   "status": "완료",
-   "heard": "くつ",
-   "at": "2026-10-20T23:00:56.861Z"
+   "status": "확인 필요",
+   "heard": "ふつ",
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "靴|B": {
-   "file": "audio/o18574569b3-mvhaaxuv.mp3",
+   "file": "audio/o18574569b3-mvhan8dt.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "B",
@@ -1545,36 +1545,36 @@
    "kana": "くつ",
    "status": "완료",
    "heard": "くつ",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "近く": {
-   "file": "audio/o79938747b2-mvhabp9j.mp3",
+   "file": "audio/o79938747b2-mvhan9s1.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "A",
    "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "近く",
+   "kana": "ちかく",
+   "status": "완료",
+   "heard": "近く。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "近く|B": {
+   "file": "audio/o3f716474cf-mvhanfro.mp3",
+   "lesson": "0-2",
+   "kind": "단어",
+   "who": "B",
+   "voice": "verse",
    "model": "gpt-4o-mini-tts",
    "text": "近く",
    "kana": "ちかく",
    "status": "완료",
    "heard": "近く",
-   "at": "2026-10-20T23:00:56.861Z"
-  },
-  "近く|B": {
-   "file": "audio/o3f716474cf-mvhabujq.mp3",
-   "lesson": "0-2",
-   "kind": "단어",
-   "who": "B",
-   "voice": "verse",
-   "model": "gpt-4o-mini-tts",
-   "text": "近く",
-   "kana": "ちかく",
-   "status": "완료",
-   "heard": "ちかく",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "暑い": {
-   "file": "audio/oc2f48e1c29-mvhac9ww.mp3",
+   "file": "audio/oc2f48e1c29-mvhanhij.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "A",
@@ -1583,11 +1583,11 @@
    "text": "暑い",
    "kana": "あつい",
    "status": "완료",
-   "heard": "暑い。",
-   "at": "2026-10-20T23:00:56.861Z"
+   "heard": "あつい。",
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "暑い|B": {
-   "file": "audio/oba5daa7eb1-mvhacbpe.mp3",
+   "file": "audio/oba5daa7eb1-mvhanjgy.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "B",
@@ -1597,10 +1597,10 @@
    "kana": "あつい",
    "status": "완료",
    "heard": "あつい。",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "高い": {
-   "file": "audio/o15d03a86da-mvhaceos.mp3",
+   "file": "audio/o15d03a86da-mvhanl5y.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "A",
@@ -1610,10 +1610,10 @@
    "kana": "たかい",
    "status": "완료",
    "heard": "たかい",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "高い|B": {
-   "file": "audio/od7f9e95409-mvhaci8r.mp3",
+   "file": "audio/od7f9e95409-mvhann7m.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "B",
@@ -1623,10 +1623,10 @@
    "kana": "たかい",
    "status": "완료",
    "heard": "たかい",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "少し": {
-   "file": "audio/o7f174275bc-mvhaclon.mp3",
+   "file": "audio/o7f174275bc-mvhanp5w.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "A",
@@ -1636,10 +1636,10 @@
    "kana": "すこし",
    "status": "완료",
    "heard": "すこし",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "少し|B": {
-   "file": "audio/oe8b17d08ad-mvhacp0r.mp3",
+   "file": "audio/oe8b17d08ad-mvhanqky.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "B",
@@ -1649,10 +1649,10 @@
    "kana": "すこし",
    "status": "완료",
    "heard": "すこし",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "机": {
-   "file": "audio/o23a732e61c-mvhacsza.mp3",
+   "file": "audio/o23a732e61c-mvhaok7w.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "A",
@@ -1662,10 +1662,10 @@
    "kana": "つくえ",
    "status": "완료",
    "heard": "つくえ",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "机|B": {
-   "file": "audio/o1f2612fb39-mvhada93.mp3",
+   "file": "audio/o1f2612fb39-mvhap777.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "B",
@@ -1673,12 +1673,12 @@
    "model": "gpt-4o-mini-tts",
    "text": "机",
    "kana": "つくえ",
-   "status": "완료",
-   "heard": "つくえ",
-   "at": "2026-10-20T23:00:56.861Z"
+   "status": "확인 필요",
+   "heard": "すくえ",
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "先": {
-   "file": "audio/of9a03fb302-mvhadcq2.mp3",
+   "file": "audio/of9a03fb302-mvhap8j9.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "A",
@@ -1688,10 +1688,10 @@
    "kana": "さき",
    "status": "완료",
    "heard": "さき",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "先|B": {
-   "file": "audio/o2bf25b507a-mvhadl4e.mp3",
+   "file": "audio/o2bf25b507a-mvhapa4v.mp3",
    "lesson": "0-2",
    "kind": "단어",
    "who": "B",
@@ -1701,10 +1701,10 @@
    "kana": "さき",
    "status": "완료",
    "heard": "さき",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "くつ？すき！": {
-   "file": "audio/o8b336ac171-mvhadtwz.mp3",
+   "file": "audio/o8b336ac171-mvhapcvg.mp3",
    "lesson": "0-2",
    "kind": "귀뜻",
    "who": "A",
@@ -1714,10 +1714,10 @@
    "kana": "",
    "status": "완료",
    "heard": "くつ、すき",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
   },
   "くつ？すき！|B": {
-   "file": "audio/o9ba018893c-mvhaeff5.mp3",
+   "file": "audio/o9ba018893c-mvhape2t.mp3",
    "lesson": "0-2",
    "kind": "귀뜻",
    "who": "B",
@@ -1726,8 +1726,216 @@
    "text": "くつ？すき！",
    "kana": "",
    "status": "완료",
+   "heard": "普通、好き?",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "くつ、すき。": {
+   "file": "audio/o024e477bc2-mvhapfje.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "A",
+   "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "くつ、すき。",
+   "kana": "",
+   "status": "완료",
    "heard": "くつ、すき?",
-   "at": "2026-10-20T23:00:56.861Z"
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "くつ、すき。|B": {
+   "file": "audio/oc3e3556870-mvhapi02.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "くつ、すき。",
+   "kana": "",
+   "status": "완료",
+   "heard": "くつ、すき",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "すこし、たかい。": {
+   "file": "audio/o47d0fe9550-mvhappve.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "A",
+   "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "すこし、たかい。",
+   "kana": "",
+   "status": "완료",
+   "heard": "すこし たかい。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "すこし、たかい。|B": {
+   "file": "audio/o1c80ba1e83-mvhaprhc.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "すこし、たかい。",
+   "kana": "",
+   "status": "완료",
+   "heard": "すこし たかい。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "すこし、あつい。": {
+   "file": "audio/oeeecd0b09c-mvhapsrz.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "A",
+   "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "すこし、あつい。",
+   "kana": "",
+   "status": "완료",
+   "heard": "すこし、あつい。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "すこし、あつい。|B": {
+   "file": "audio/oa5c42f403c-mvhapv7y.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "すこし、あつい。",
+   "kana": "",
+   "status": "완료",
+   "heard": "すこし、暑い。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "あつい？すこし。": {
+   "file": "audio/o9b9412b381-mvhapwbl.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "A",
+   "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "あつい？すこし。",
+   "kana": "",
+   "status": "완료",
+   "heard": "あつい、すこし。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "あつい？すこし。|B": {
+   "file": "audio/oc002429908-mvhapxpr.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "あつい？すこし。",
+   "kana": "",
+   "status": "완료",
+   "heard": "あつい、すこし。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "そうそう、ちかく！": {
+   "file": "audio/ofe43ea5ce9-mvhaq8by.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "A",
+   "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "そうそう、ちかく！",
+   "kana": "",
+   "status": "완료",
+   "heard": "そうそう、しかく。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "そうそう、ちかく！|B": {
+   "file": "audio/of57b3ebc67-mvhaqacu.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "そうそう、ちかく！",
+   "kana": "",
+   "status": "완료",
+   "heard": "そうそう、深く。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "ちかく？そうそう。": {
+   "file": "audio/o152b2818fb-mvhaqbie.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "A",
+   "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "ちかく？そうそう。",
+   "kana": "",
+   "status": "완료",
+   "heard": "近く? そうそう。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "ちかく？そうそう。|B": {
+   "file": "audio/o16a7ffd812-mvhaqpi9.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "ちかく？そうそう。",
+   "kana": "",
+   "status": "완료",
+   "heard": "近く?そうそう。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "そう、せき、ここ。": {
+   "file": "audio/o24f41cba8a-mvhaqqrg.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "A",
+   "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "そう、せき、ここ。",
+   "kana": "",
+   "status": "완료",
+   "heard": "そう、せき、ここ。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "そう、せき、ここ。|B": {
+   "file": "audio/ob7b6873fdd-mvhaqs5p.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "そう、せき、ここ。",
+   "kana": "",
+   "status": "완료",
+   "heard": "そう、席、ここ。",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "そう？ここ、せき？": {
+   "file": "audio/o6833668c32-mvhaqtq6.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "A",
+   "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "そう？ここ、せき？",
+   "kana": "",
+   "status": "완료",
+   "heard": "どう?ここ、席?",
+   "at": "2026-10-20T23:10:38.871Z"
+  },
+  "そう？ここ、せき？|B": {
+   "file": "audio/o1575a66e1c-mvhaqwi6.mp3",
+   "lesson": "0-2",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "そう？ここ、せき？",
+   "kana": "",
+   "status": "완료",
+   "heard": "そう、ここ、席?",
+   "at": "2026-10-20T23:10:38.871Z"
   }
  },
  "target": "전체",
