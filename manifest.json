@@ -623,6 +623,97 @@
    "status": "완료",
    "heard": "夏、暑い。",
    "at": "2026-10-20T21:21:44.001Z"
+  },
+  "なつ、あつい。|B": {
+   "file": "audio/o1d3adbefc1-mvh722ag.mp3",
+   "lesson": "0-3",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "なつ、あつい。",
+   "kana": "",
+   "status": "완료",
+   "heard": "なつ、あつい",
+   "at": "2026-10-20T21:28:07.974Z"
+  },
+  "ねつ、ない。": {
+   "file": "audio/obbca0e6864-mvh724gg.mp3",
+   "lesson": "0-3",
+   "kind": "귀뜻",
+   "who": "A",
+   "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "ねつ、ない。",
+   "kana": "",
+   "status": "완료",
+   "heard": "べつ、ない。",
+   "at": "2026-10-20T21:28:07.975Z"
+  },
+  "ねつ、ない。|B": {
+   "file": "audio/od7c478b022-mvh725zq.mp3",
+   "lesson": "0-3",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "ねつ、ない。",
+   "kana": "",
+   "status": "완료",
+   "heard": "ねつ、ない",
+   "at": "2026-10-20T21:28:07.975Z"
+  },
+  "かね、ない。": {
+   "file": "audio/o9a7835d9d8-mvh727ug.mp3",
+   "lesson": "0-3",
+   "kind": "귀뜻",
+   "who": "A",
+   "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "かね、ない。",
+   "kana": "",
+   "status": "완료",
+   "heard": "かね、ない。",
+   "at": "2026-10-20T21:28:07.975Z"
+  },
+  "かね、ない。|B": {
+   "file": "audio/oea2e4b318d-mvh729ib.mp3",
+   "lesson": "0-3",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "かね、ない。",
+   "kana": "",
+   "status": "완료",
+   "heard": "かね、ない。",
+   "at": "2026-10-20T21:28:07.975Z"
+  },
+  "あね、かね、ない。": {
+   "file": "audio/o7835cdda12-mvh72au2.mp3",
+   "lesson": "0-3",
+   "kind": "귀뜻",
+   "who": "A",
+   "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "あね、かね、ない。",
+   "kana": "",
+   "status": "완료",
+   "heard": "あね、かね、ない。",
+   "at": "2026-10-20T21:28:07.975Z"
+  },
+  "あね、かね、ない。|B": {
+   "file": "audio/oefaff55e40-mvh732g6.mp3",
+   "lesson": "0-3",
+   "kind": "귀뜻",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "あね、かね、ない。",
+   "kana": "",
+   "status": "완료",
+   "heard": "あね、かね、ない。",
+   "at": "2026-10-20T21:28:07.976Z"
   }
  }
 }
