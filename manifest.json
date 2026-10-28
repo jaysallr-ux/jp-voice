@@ -3145,6 +3145,32 @@
    "status": "완료",
    "heard": "め おおきい",
    "at": "2026-10-28T11:59:37.187Z"
+  },
+  "いね。": {
+   "file": "audio/o93f612ae23-mvs2jgqd.mp3",
+   "lesson": "0-4",
+   "kind": "단어",
+   "who": "A",
+   "voice": "coral",
+   "model": "gpt-4o-mini-tts",
+   "text": "いね。",
+   "kana": "いね",
+   "status": "확인 필요",
+   "heard": "いいね。",
+   "at": "2026-10-28T12:06:31.796Z"
+  },
+  "いね。|B": {
+   "file": "audio/ob4b8e8f368-mvs2jnn8.mp3",
+   "lesson": "0-4",
+   "kind": "단어",
+   "who": "B",
+   "voice": "verse",
+   "model": "gpt-4o-mini-tts",
+   "text": "いね。",
+   "kana": "いね",
+   "status": "확인 필요",
+   "heard": "いいね。",
+   "at": "2026-10-28T12:06:31.797Z"
   }
  },
  "target": "전체",
